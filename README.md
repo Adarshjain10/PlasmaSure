@@ -1,4 +1,5 @@
 ![](https://miro.medium.com/max/875/0*1ZQNq_w_b5rnSwm8)
+=============
 
 :syringe: PlasmaSure  :ambulance:
 =============
@@ -8,11 +9,13 @@ The software system is an is a community based online platform that helps the CO
 
 ### Tech Stack :computer:
 -----------
-**Frontend:** HTML, CSS, Javascript
-**Backend	:** JSP, Servlet, JDBC, Java
-**Database:** MySQL
+**Frontend:** HTML, CSS, Javascript  :airplane:
 
-### Features :sparkles:
+**Backend	:** JSP, Servlet, JDBC, Java  :boat:
+
+**Database:** MySQL  :tractor:
+
+### Features :sparkles:  :rocket:
 -------
 - **Online Registration/Login:** The users that are in need of plasma and other covid
 related medicines can register online and find their suitable donors online.
@@ -46,52 +49,52 @@ Creating an online platform that not just serves as a strong network between pla
 
 ## Screenshot :camera:
 --------
->  Home Page
+>  Home Page  :dog:
 
 ![](images/1.png)
 
 
-> Request Form
+> Request Form  :cat:
 
 ![](images/2.png)
 
 
-> Login Page
+> Login Page  :elephant:
 
 ![](images/4.jpg)
 
 
-> Admin Home Page
+> Admin Home Page  :camel:
 
 ![](images/5.jpg)
 
 
-> Add New Donar Page
+> Add New Donar Page  :panda_face:
 
 ![](images/6.png)
 
 
-> Donar Details
+> Donar Details  :octopus:
 
 ![](images/7.png)
 
 
-> Update Details
+> Update Details  :whale2:
 
 ![](images/8.png)
 
 
-> Manage Stocks
+> Manage Stocks  :tiger2:
 
 ![](images/10.png)
 
 
-> Active Requests / Pending Requests
+> Active Requests / Pending Requests  :crocodile:
 
 ![](images/11.png)
 
 
-> Completed Requests
+> Completed Requests  :penguin:
 
 ![](images/12.png)
 
