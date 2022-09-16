@@ -24,18 +24,20 @@ arises any requirement.
 - Being a web-based system, can be implemented throughout the state.
 - Patient Register/Blood Sample Receiving Register, Donor Register ,Discarded donor.
 
-###Goal
+### Goal
 -----
 Experiencing the helplessness and frustration of the COVID-19 patients and their relatives first-hand, a team consisting of doctors came up with an idea to create a platform that helps these patients and their relatives in finding a plasma donor quickly and effortlessly.
 
-###The Challenge
+### The Challenge
 -----
 - The major challenge faced will be to filter out inappropriate or test seeking donors to reduce unnecessary burden on collection centres. The approved guidelines for registered clinical trials must be strictly followed.  
 - To eradicate the fear and stigma associated with the therapy, in a majority of the population.
 
-###The Solution
+### The Solution
 -----
 Creating an online platform that not just serves as a strong network between plasma donors and plasma seekers. But also acts as a platform to spread awareness and motivate donors by taking care of their plasma needs and safety.
 
+## Screenshot
+--------
 ![](images/1.png)
 
